@@ -7,7 +7,7 @@
 }
 body{
   
-background-image: url("D:/webdevelopement/html-company/images/city-large.jpg");
+background-image: url("city-large.jpg");
 background-position: cover;
 background-repeat: no-repeat;
   }
@@ -138,7 +138,7 @@ font-size: 4rem;
 
 /* our e-list services*/
 #our-elist{
-    background-image: url(D:/webdevelopement/html-company/images/bulb.jpg);
+    background-image: url("bulb.jpg");
 background-repeat: no-repeat;
 background-position: cover;
 padding: 5% 7%;
