@@ -7,7 +7,7 @@
 }
 body{
   
-background-image: url("D:/webdevelopement/html-company/images/medium-pic.jpg");
+background-image: url("medium-pic.jpg");
 background-position: cover;
 width: 100%;
 background: hsla(0 80 100,0.3)
@@ -101,7 +101,7 @@ font-weight: bold;
 }
 /* mid-body of the maintenace page */
 #c-midbody{
-  /* background-image: url('D:/webdevelopement/html-company/images/midbody.jpg');
+  /* background-image: url('midbody.jpg');
   background-position: cover;
   background-repeat: none;
   padding: 5% 10%; */
@@ -175,7 +175,7 @@ font-weight: bold;
 
 /* our e-list services*/
 #our-elist{
-    background-image: url(D:/webdevelopement/html-company/images/bulb.jpg);
+    background-image: url("bulb.jpg");
 background-repeat: no-repeat;
 background-position: cover;
 padding: 5% 7%;
@@ -219,7 +219,7 @@ text-transform: capitalize;
   {
     body{
   
-    background-image: url("D:/webdevelopement/html-company/images/medium-mobile.jpg");
+    background-image: url("medium-mobile.jpg");
     background-position: cover;
     background-repeat: no-repeat;
     width: 100%;
